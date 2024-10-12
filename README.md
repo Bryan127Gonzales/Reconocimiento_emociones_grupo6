@@ -1,6 +1,6 @@
 # Grupo 6:
 Integrantes:
-* Gonzales Guzman Brayham 
+* Gonzales Guzman, Brayham Carlos 
 * Senmache Ly, Jesús Sebastian 
 * Julca Guzmán, Diego Andrés 
 * Retuerto Contreras, Cristhia Martín 
