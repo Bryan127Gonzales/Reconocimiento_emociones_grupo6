@@ -1,0 +1,3 @@
+Paciente,Tiempo,Fotogramas,Emocion_Predominante,Precision,Exactitud,Recall,F1
+1,37.21 ,845,sad,0.65,0.62,0.62,0.60
+2,27.70 ,387,neutral,0.66,0.64,0.64,0.63
